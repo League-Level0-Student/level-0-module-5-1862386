@@ -17,12 +17,33 @@ public class For_Loop_Gauntlet {
 
 		// for (int d = 1; d<501; d++) {
 
-		/// if (d % 2== 0) {
+		// if (d % 2== 0) {
 		// System.out.println(d +" is even");
 		// }
 		// else {
 		// System.out.println(d + " is odd");
 		// }
-	}
+		// }
+		// for (int e = 0; e<777; e+=7) {
+		// System.out.println(e);
+		// }
+		// for (int f = 0; f<14; f++) {
+		// int year = 2004 + f;
+		// }
+		// for (int g = 0; g < 3; g++) {
+		// for (int h = 0; h < 3; h++) {
+		// System.out.print(g +" ");
+		// System.out.print(h);
+		// System.out.println();
+		// }
+		// }
+		for (int h = 0; h < 3; h++) {
+			for (int i = 0; i < 3; i++) {
+				System.out.print(i);
+				
+			}
+			 System.out.println();
 
+		}
+	}
 }
